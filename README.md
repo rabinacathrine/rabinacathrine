@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rabina-v-8a367b164/" target="blank">https://linkedin.com/in/https://www.linkedin.com/in/rabina-v-8a367b164/</a>
+<a href="https://www.linkedin.com/in/rabina-v-8a367b164/" target="blank">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

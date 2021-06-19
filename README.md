@@ -1,8 +1,8 @@
 ### Hi there, I am Rabina👋
 <p>A passionate frontend developer </p>
-- 🔭 I’m currently working on Front end projects
-- 🌱 I’m currently learning FullStack
--  📫 How to reach me:rabinacathrine@gmail.com
+<p>- 🔭 I’m currently working on Front end projects </p>
+<p>- 🌱 I’m currently learning FullStack</p>
+<p>-  📫 How to reach me:rabinacathrine@gmail.com</p>
 
 
 <p>- 📄 Know about my experiences [https://drive.google.com/file/d/1OS3qB1DeuQ4-LPyIUawOBCmXE4oaWafn/view?usp=sharing]</p>

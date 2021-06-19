@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h1>I am Rabina</h1>
 <h3 align="center">A passionate frontend developer </h3>
 <p>- 📫 How to reach me **rabinacathrine@gmail.com**</p>
 

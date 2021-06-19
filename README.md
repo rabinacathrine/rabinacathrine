@@ -5,7 +5,7 @@
 <p>-  📫 How to reach me:rabinacathrine@gmail.com</p>
 
 
-<p>- 📄 Know about my experiences [https://drive.google.com/file/d/1OS3qB1DeuQ4-LPyIUawOBCmXE4oaWafn/view?usp=sharing]</p>
+<p>- Know about my experiences<a href="[https://drive.google.com/file/d/1OS3qB1DeuQ4-LPyIUawOBCmXE4oaWafn/view?usp=sharing]"> 📄</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

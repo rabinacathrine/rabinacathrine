@@ -1,7 +1,9 @@
-### Hi there 👋
-<h1>I am Rabina</h1>
-<h3 align="center">A passionate frontend developer </h3>
-<p>- 📫 How to reach me **rabinacathrine@gmail.com**</p>
+### Hi there, I am Rabina👋
+<p>A passionate frontend developer </p>
+- 🔭 I’m currently working on Front end projects
+- 🌱 I’m currently learning FullStack
+-  📫 How to reach me:rabinacathrine@gmail.com
+
 
 <p>- 📄 Know about my experiences [https://drive.google.com/file/d/1OS3qB1DeuQ4-LPyIUawOBCmXE4oaWafn/view?usp=sharing]</p>
 
@@ -18,12 +20,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

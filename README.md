@@ -5,7 +5,7 @@
 <p>-  📫 How to reach me:rabinacathrine@gmail.com</p>
 
 
-<p>- Know about my experiences<a href="https://drive.google.com/file/d/1OS3qB1DeuQ4-LPyIUawOBCmXE4oaWafn/view?usp=sharing"><img src="https://img2.pngio.com/resume-icons-at-getdrawings-free-download-resume-icon-png-512_512.png"/> 📄</a></p>
+<p>-📄Know about my experiences<a href="https://drive.google.com/file/d/1OS3qB1DeuQ4-LPyIUawOBCmXE4oaWafn/view?usp=sharing"><img src="https://img2.pngio.com/resume-icons-at-getdrawings-free-download-resume-icon-png-512_512.png" width="40" height="40"/> </a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

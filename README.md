@@ -1,7 +1,7 @@
 ### Hi there, I am Rabina👋
 <p>A passionate developer </p>
-<p>- 🔭 I’m currently working on Front end projects </p>
-<p>- 🌱 I’m currently learning FullStack</p>
+<p>- 🔭 I’m currently working on Front end and SQL projects </p>
+<p>- 🌱 I’m currently learning SQL (Analytics,Datascience)</p>
 <p>-  📫 How to reach me:rabinacathrine@gmail.com</p>
 
 
